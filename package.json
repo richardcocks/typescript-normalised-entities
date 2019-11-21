@@ -1,0 +1,11 @@
+{
+  "name": "typescript-normalised-entities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/richardcocks/typescript-normalised-entities.git",
+  "author": "Richard Cocks <richard.cocks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.7.2"
+  }
+}
