@@ -14,4 +14,4 @@ When dealing with normalised state we often found ourselves writing code such as
 }
 ```
 
-The codebase becomes littered with these ancillary types that feel like they should otherwise be unecessary.
+These ancillary types should otherwise be unecessary, so this library intends to hide them through a generic `Entity<T>` type.
